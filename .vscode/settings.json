@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "cBasics.C": "cpp",
-        "helloWorld.C": "cpp"
+        "helloWorld.C": "cpp",
+        "Assign1.C": "cpp"
     }
 }
