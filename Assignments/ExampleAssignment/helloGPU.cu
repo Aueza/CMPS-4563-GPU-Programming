@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <cuda.h>
 
 const int N = 7;
 const int blocksize = 7;
