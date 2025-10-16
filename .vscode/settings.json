@@ -3,6 +3,7 @@
         "cBasics.C": "cpp",
         "helloWorld.C": "cpp",
         "Assign1.C": "cpp",
-        "test.C": "cpp"
+        "test.C": "cpp",
+        "Assignment3.C": "cpp"
     }
 }
